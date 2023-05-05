@@ -1,2 +1,3 @@
-# big-space
-put big code,picture in it
+博客,大段图片,代码储存.
+
+## 注意,WOT space **不是** 团员博客,大段图片,代码储存空间
